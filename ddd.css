@@ -1,0 +1,32 @@
+
+.Container {
+font-family: 'Dongle', sans-serif;
+display : flex;
+justify-content: center;
+color: inherit;
+
+}
+
+.colum {
+    width : 400px;
+    margin : 10px;
+}
+
+.box {
+    padding : 20px;
+    height : 300px;
+    border-radius : 8px;
+    background-color: #3E3E3E;
+}
+
+.boxtitle {
+    font-size : 30px;
+    display : flex;
+    justify-content: center;
+   
+}
+
+.boxtitle:hover {
+    text-decoration: underline;
+    color: inherit;
+}
